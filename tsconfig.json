@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+      "strict": true,
+      "module": "ESNext",
+      "moduleResolution": "Node",
+      "esModuleInterop": true,
+      "allowJs": true,
+      "lib": ["ESNext", "DOM"],
+      "types": ["svelte"]
+    }
+  }
+  

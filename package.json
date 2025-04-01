@@ -1,0 +1,37 @@
+{
+  "name": "@magicfaq/svelte",
+  "version": "1.0.0",
+  "description": "The package to interact with MagicFAQ in your website",
+  "main": "src/index.svelte",
+  "svelte": "src/index.svelte",
+  "exports": {
+    "svelte": "./src/index.svelte"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "svelte-package",
+    "prepare": "npm run build",
+    "lint": "eslint --ext .svelte,.ts src",
+    "check": "svelte-check"
+  },
+  "keywords": [
+    "magicfaq",
+    "allinone",
+    "easycrm",
+    "svelte"
+  ],
+  "author": "Sudeep72",
+  "license": "ISC",
+  "type": "module",
+  "peerDependencies": {
+    "svelte": "^5.25.5"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "svelte-check": "^3.0.0",
+    "svelte-preprocess": "^5.0.0",
+    "esbuild": "^0.19.0",
+    "eslint": "^8.50.0",
+    "@sveltejs/package": "^2.0.0"
+  }
+}
