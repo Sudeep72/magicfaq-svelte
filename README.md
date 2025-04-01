@@ -25,7 +25,7 @@ In your Svelte component, import and use the `MagicFAQ` component like this:
 
 ```svelte
 <script lang="ts">
-  import { MagicFAQ } from '@magicfaq/svelte';
+  import MagicFAQ from '@magicfaq/svelte';
 </script>
 
 <MagicFAQ uid="your-unique-id" position="top-right" />

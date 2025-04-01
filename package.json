@@ -1,6 +1,6 @@
 {
   "name": "@magicfaq/svelte",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The package to interact with MagicFAQ in your website",
   "main": "dist/index.svelte",
   "svelte": "dist/index.svelte",
