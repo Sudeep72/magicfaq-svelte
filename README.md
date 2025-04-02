@@ -32,7 +32,7 @@ In your Svelte component, import and use the `MagicFAQ` component like this:
 ```
 
 > Remove if you have any globally  
-`color-scheme: light dark`
+ `color-scheme: light dark`
 
 
 ## Props
