@@ -31,7 +31,7 @@ In your Svelte component, import and use the `MagicFAQ` component like this:
 <MagicFAQ uid="your-unique-id" position="top-right" />
 ```
 
->Remove if you have any globally  
+> Remove if you have any globally  
 `color-scheme: light dark`
 
 
